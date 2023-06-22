@@ -1,5 +1,5 @@
 # SMART-CCTV
-SMART-CCTV uses web-cam, and automatic video analysis technologies like open-cv to automate the surveilence of a closed area.
+SMART-CCTV uses web-cam, and automatic video analysis technologies like open-cv to automate the surveillance of a closed area.
 
 Step to run the project:
 
